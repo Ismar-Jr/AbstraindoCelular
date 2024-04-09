@@ -1,0 +1,14 @@
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/bin/Debug/net8.0/AbstraindoCelular
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/bin/Debug/net8.0/AbstraindoCelular.deps.json
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/bin/Debug/net8.0/AbstraindoCelular.runtimeconfig.json
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/bin/Debug/net8.0/AbstraindoCelular.dll
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/bin/Debug/net8.0/AbstraindoCelular.pdb
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.GeneratedMSBuildEditorConfig.editorconfig
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.AssemblyInfoInputs.cache
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.AssemblyInfo.cs
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.csproj.CoreCompileInputs.cache
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.dll
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/refint/AbstraindoCelular.dll
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.pdb
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/AbstraindoCelular.genruntimeconfig.cache
+/home/ismar/Documentos/Curso_C#/AbstraindoCelular/obj/Debug/net8.0/ref/AbstraindoCelular.dll
